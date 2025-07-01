@@ -9,3 +9,8 @@ else
     WinSet, Transparent, OFF, A
 }
 return
+
+^SPACE::  ; Ctrl+Space
+  Winset, AlwaysOnTop, , A
+return
+

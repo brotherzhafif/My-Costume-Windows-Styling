@@ -66,17 +66,17 @@ body:not(.dragging-items) {
 }
 
 .bottom .weg-item::before {
+  top: 0;
+}
+
+.top .weg-item::before {
   bottom: 0;
 }
 
-.bottom .weg-item::before {
-  bottom: 0;
-}
-
-.right .weg-item::before {
+.left .weg-item::before {
   right: 0;
 }
 
 .right .weg-item::before {
-  right: 0;
+  left: 0;
 }
