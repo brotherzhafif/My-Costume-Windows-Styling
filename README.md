@@ -44,6 +44,11 @@ Windows Styling adalah kumpulan alat dan utilitas untuk memodifikasi tampilan da
 
 ## Fitur Utama
 
+- **Windhawk**
+    - Slick Window Arrangement
+      Make window arrangement more slick and pleasant with a sliding animation and snapping
+    - Windows 11 Start Menu Styler
+      Customize the start menu with themes contributed by others or create your own
 - **MyDockFinder**  
   Dock mirip macOS untuk Windows, dengan efek animasi window (close, open, dsb) seperti macOS, serta dukungan tema, ikon, dan widget.
 - **Dynamic Wallpaper & Layouting**  
